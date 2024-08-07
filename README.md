@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leldom
-- 👀 I’m interested in sleeping
+- 👀 I’m interested in video games
 - 🌱 I’m currently learning Java
 
 <!---
